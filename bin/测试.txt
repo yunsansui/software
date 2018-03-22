@@ -1,0 +1,19 @@
+1. wc.exe -w -c -l test.c
+
+2. wc.exe -w -c D:\test\test.c
+
+3,wc.exe -w test.c -e stoplist.txt -o out.txt
+ 
+4. wc.exe  -a -c -l -w  test.c -e stoplist.txt
+
+5. wc.exe -a -c  test.c -o out.txt
+
+6. wc.exe -s -w  test.c -e stoplist.txt
+
+7. wc.exe -w -l D:\test\test.c -o out.txt 
+
+8.wc.exe -a -l -c -w test.c 
+
+9.wc.exe  -l test.c -e stoplist.txt
+
+10. wc.exe  -s -w test.c -o out.txt

@@ -1,0 +1,18 @@
+﻿test.c 单词数： 9
+test.c 字符数：47
+test.c   行数：9
+test.c 单词数： 9
+test.c 字符数：47
+test.c 字符数：47
+test.c   行数：9
+test.c 单词数： 8
+test.c 代码行/注释行/空行： 4/0/5
+test.c 单词数： 9
+test1.c 单词数：19
+test2.c 单词数： 35
+test3.c 单词数： 27
+test.c 代码行/注释行/空行： 4/0/5
+test.c   行数：9
+test.c 字符数：47
+test.c 单词数： 9
+没有该操作
